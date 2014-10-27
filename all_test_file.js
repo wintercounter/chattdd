@@ -1,0 +1,1 @@
+require("./tests/Chat/view.js");
